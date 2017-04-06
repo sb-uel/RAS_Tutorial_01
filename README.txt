@@ -6,15 +6,12 @@ As funções aqui implementadas tem a finalidade de simplificar o estudo daquele
 Funções
 
 Funcao:    init_all()
-
 Descricao: Inicializa e configura os pinos que serao utilizados para a chave e para o acionamento do Servo. Deve ser inclusa dentro do arquivo main.ino na funcao void setup().
 
 Funcao:    esperaSegundos("insira o tempo em segundos aqui")
-
 Descricao: Esta funcao faz com que o programa pare por pTempo segundos, sendo pTempo um numero real positivo.
 
 Funcao:    checaChave("insira se deseja esperar que a chave fique ON ou OFF")
-
 Descricao: Espera por tempo indeterminado ate que a chave seja acionada de modo ON ou OFF de acordo com o valor em pS.
 
 Funcao:    statusChave()
@@ -39,7 +36,7 @@ Conexoes
   
   Chave
   Pino central -------------------- GND
-  Pino lateral(qualquer um) ------- Pino 11
-  
+  Pino lateral* ------------------- Pino 11
+*escolha qualquer um dos pinos laterais teste e se atente na hora da montagem.  
 Construcao Mecanica
 Para construcao mecanica da maquina inutil recomenda-se buscar inspiracoes em outras caixas na internet e personaliza-la de acordo com o seu gosto.

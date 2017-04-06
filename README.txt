@@ -1,7 +1,7 @@
 # Maquina-Inutil/Useless Machine
-Desenvolvimento de uma máquina inútil com o objetivo de introduzir iniciantes ao campo da robótica.
+Desenvolvimento de uma maquina inutil com o objetivo de introduzir iniciantes ao campo da robotica.
 
-As funções aqui implementadas tem a finalidade de simplificar o estudo daqueles que buscam uma introdução à robótica porém possuem pouca ou nenhuma base de programação. Assim que um conhecimento considerável sobre programação for desenvolvido ficará claro que tais funções não exprimem a melhor eficiência dos componentes utilizados e existem métodos melhores, porém relativamente mais complexos, de se implementar a Máquina Inútil em questão.
+As funcoes aqui implementadas tem a finalidade de simplificar o estudo daqueles que buscam uma introducao a robotica porem possuem pouca ou nenhuma base de programacao. Assim que um conhecimento consideravel sobre programacao for desenvolvido ficara claro que tais funcoes nao exprimem a melhor eficiencia dos componentes utilizados e existem metodos melhores, porem relativamente mais complexos, de se implementar a Maquina Inutil em questao.
 
 Funções
 
@@ -37,6 +37,9 @@ Conexoes
   Chave
   Pino central -------------------- GND
   Pino lateral* ------------------- Pino 11
-*escolha qualquer um dos pinos laterais teste e se atente na hora da montagem.  
+*escolha qualquer um dos pinos laterais teste e se atente na hora da montagem. 
+
 Construcao Mecanica
 Para construcao mecanica da maquina inutil recomenda-se buscar inspiracoes em outras caixas na internet e personaliza-la de acordo com o seu gosto.
+
+A biblioteca Servo.h foi obtida atraves do website: https://www.arduino.cc/en/reference/servo

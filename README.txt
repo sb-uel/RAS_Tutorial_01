@@ -1,9 +1,11 @@
 # Maquina-Inutil/Useless Machine
 Desenvolvimento de uma maquina inutil com o objetivo de introduzir iniciantes ao campo da robotica.
 
+PS: O arquivo tutorial01.pdf e um guia para que o interessado busque conhecer um pouco a fundo sobre os elementos utilizados na execução deste projeto.
+
 As funcoes aqui implementadas tem a finalidade de simplificar o estudo daqueles que buscam uma introducao a robotica porem possuem pouca ou nenhuma base de programacao. Assim que um conhecimento consideravel sobre programacao for desenvolvido ficara claro que tais funcoes nao exprimem a melhor eficiencia dos componentes utilizados e existem metodos melhores, porem relativamente mais complexos, de se implementar a Maquina Inutil em questao.
 
-Funções
+Funcoes
 
 Funcao:    init_all()
 Descricao: Inicializa e configura os pinos que serao utilizados para a chave e para o acionamento do Servo. Deve ser inclusa dentro do arquivo main.ino na funcao void setup().

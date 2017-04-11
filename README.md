@@ -1,4 +1,4 @@
-# Maquina-Inutil/Useless Machine
+# RAS_Tutorial_01 (Maquina-Inutil)
 
 Desenvolvimento de uma máquina inútil com o objetivo de introduzir iniciantes ao campo da robótica.
 

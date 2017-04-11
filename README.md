@@ -1,4 +1,4 @@
-# RAS_Tutorial_01 (Maquina-Inutil)
+# RAS_Tutorial_01 (Máquina-Inútil)
 
 Desenvolvimento de uma máquina inútil com o objetivo de introduzir iniciantes ao campo da robótica.
 
@@ -42,8 +42,8 @@ CONEXÕES
 CHAVES
   Pino central -------------------- GND
   Pino lateral* ------------------- Pino 11
-* __escolha qualquer um dos pinos laterais teste e se atente na hora da montagem.__
 ```
+__(escolha qualquer um dos pinos laterais teste e se atente na hora da montagem).__
 
 ## Construção Mecânica
 Para construção mecânica da máquina inútil recomenda-se buscar inspirações em outras caixas na internet e personaliza-la de acordo com 

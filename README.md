@@ -43,7 +43,7 @@ CHAVES
   Pino central -------------------- GND
   Pino lateral* ------------------- Pino 11
 ```
-__(escolha qualquer um dos pinos laterais teste e se atente na hora da montagem).__
+_(escolha qualquer um dos pinos laterais teste e se atente na hora da montagem)._
 
 ## Construção Mecânica
 Para construção mecânica da máquina inútil recomenda-se buscar inspirações em outras caixas na internet e personaliza-la de acordo com 
